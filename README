@@ -1,1 +1,4 @@
-This is a log parsing program that I used on some proof of concept work. I've adjusted the file enough that I can post the code here, but I unfortunately can't include the log data itself.
+This is a log parsing program that I used on some proof of concept work. I've adjusted the file enough that I can 
+post the code here, but I unfortunately can't include the log files themselves.
+
+This script would take a .txt file and output a .csv with each line's timestamp, code, and message as separate elements.
