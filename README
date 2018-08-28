@@ -1,3 +1,3 @@
 This is a log parsing program that I used as part of some proof of concept work.
 
-This script would take a .txt file and output a .csv with each line's timestamp, code, and message as separate elements.
+This script would take a .txt system log file and output a .csv with each line's timestamp, code, and message as separate elements.
